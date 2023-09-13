@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ddubeyyyy
 - 👀 I’m interested in learning new coding languages and search for currently what's new and better to me.
-- 🌱 I’m currently learning python and willing to learn more languages after that.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
